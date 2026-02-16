@@ -1,4 +1,4 @@
-# Used Car Price Prediction – Kaggle Competition (Built From Scratch)
+# Used Car Price Prediction – Kaggle Competition
 
 **Regression | Feature Engineering | Target & Label Encoding | XGBoost Tuning**
 
