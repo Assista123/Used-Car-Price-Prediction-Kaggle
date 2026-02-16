@@ -47,7 +47,8 @@ Best params (tuned XGBoost): {'learning_rate': 0.01, 'max_depth': 3, 'n_estimato
 
 ## Visuals
 
-![Mil mileage vs Price by Year](images/milage_price_scatter.png)  
-![Pairplot Numerical Features](images/pairplot.png)
+![Mil mileage vs Price by Year](mileage%20vs%20Price%20by%20Year.png) 
+)  
+![Pairplot Numerical Features](Pairplot%20Numerical%20Features.png)
 
 MSc Financial Engineering student | Part of personal data science portfolio
