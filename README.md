@@ -41,7 +41,7 @@ Built custom parsing, imputation, and encoding pipelines to handle real-world me
 Best params (tuned XGBoost): {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.9}
 
 ## Notebook
-[used_car_price_prediction.ipynb](used_car_price_prediction.ipynb)
+[used_car_price_prediction.ipynb](_.used_car_price_prediction.ipynb)
 
 ## How to Run
 1. Download full data from Kaggle or use sample_train.csv  
